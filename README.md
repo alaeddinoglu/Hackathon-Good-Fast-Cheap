@@ -1,4 +1,4 @@
-# Project 4: Hackathon
+# Group Project : Hackathon - Good Fast Cheap
 
 ### Contents:
 - [Problem Statement](#Problem-Statement)
